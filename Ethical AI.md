@@ -1,6 +1,6 @@
 [![Media Happi AI Logo](https://mediahappi.ai/wp-content/uploads/2023/05/online-logo-creator-for-electronics-companies-with-circuit-board-clipart-2176b-16-copy-3.png)](https://mediahappi.ai)
 
-# Media Happi AI 
+[![Visit MediaHappi.AI](https://img.shields.io/badge/Visit-MediaHappi.AI-blue?style=for-the-badge&logo=appveyor)](https://MediaHappi.AI)
 
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -19,7 +19,7 @@ At Media Happi AI, we merge innovation with dedication, crafting AI-driven appli
 
 ---
 
-# Media Happi: Ethical AI Guidelines
+# Our Ethical AI Guidelines
 
 In line with our mission at Media Happi, we are committed to the ethical development and deployment of Artificial Intelligence (AI). This document provides guidelines that ensure our AI solutions align with our core values, ensuring fairness, transparency, and respect for user rights.
 
@@ -68,26 +68,22 @@ We welcome feedback and collaboration from our user community and the wider publ
 
 ---
 
-[![Media Happi AI Logo](https://mediahappi.ai/wp-content/uploads/2023/05/online-logo-creator-for-electronics-companies-with-circuit-board-clipart-2176b-16-copy-3.png)](https://mediahappi.ai)
 
-We're always on the lookout for passionate individuals to join our team. Do you love Laravel? Do you thrive on challenges and love creating seamless applications? If your code sings, we want you!
+# 🌟 Join Us
+
+We're always on the lookout for passionate individuals to join our team. Do you thrive on challenges and love creating seamless applications? If your code sings, we want to work with you!
 
 ## 🖥️ Seeking Laravel Maestros
-Are you passionate about Laravel? Do you thrive on challenges and love creating seamless applications? If your code sings and you can build scalable Laravel apps, we want to work with you NOW!
+Are you passionate about Laravel? Do you thrive on challenges and love creating seamless applications? If your code sings and you can build scalable Laravel apps, we want to work with you NOW!<br>
 :email: <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -> </b></a> 
 
 ![Laravel](https://img.shields.io/badge/Laravel-%FF2D20.svg?&style=for-the-badge&logo=Laravel&logoColor=white)
 
 ## ☁️ AWS Deployment Gurus Wanted
-Deployment is an art, and AWS is our canvas. If you're well-versed with AWS, understand the intricacies of deployment, and can ensure our apps run smoothly in the cloud, we've got jobs available now.
+Deployment is an art, and AWS is our canvas. If you're well-versed with AWS, understand the intricacies of deployment, and can ensure our apps run smoothly in the cloud, we've got jobs available now.<br>
 :email: <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -> </b></a> 
 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## 🌟 Why Join Us?
-- **Innovative Projects**: Work on cutting-edge projects that challenge and inspire.
-- **Collaborative Environment**: Join a team where your voice is heard and collaboration is celebrated.
-- **Continuous Learning**: With us, every day is an opportunity to learn, grow, and innovate.
 
 ---
 
@@ -115,7 +111,14 @@ Deployment is an art, and AWS is our canvas. If you're well-versed with AWS, und
 ---
 
 
-## 📲 **Connect with Us** 
+[![Media Happi AI Logo](https://mediahappi.ai/wp-content/uploads/2023/05/online-logo-creator-for-electronics-companies-with-circuit-board-clipart-2176b-16-copy-3.png)](https://mediahappi.ai)
+
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) 
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
+![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
+
 <p align="left">
   <a href="https://github.com/MEDIA-HAPPI-AI"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://twitter.com/mediahappi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
@@ -127,19 +130,9 @@ Deployment is an art, and AWS is our canvas. If you're well-versed with AWS, und
 📸 [Instagram](https://instagram.com/media_happi)
 💌 [Join Our Discord](https://discord.gg/As8BxpGR)
 
----
-
-
-
-## 🗂️ Current Repositories 
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
-![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
 
 ---
 
+©️ 2023 MEDIA HAPPI LLC | CHIACGO, IL USA - We’re crafting the Future with <a href="https://www.QuantumDLM.com"><b>Quantum DLM</b></a>
+
+---
