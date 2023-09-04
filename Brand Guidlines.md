@@ -26,6 +26,8 @@ Welcome to the Media Happi brand guidelines. This document is designed to provid
 
 ## **1. Logo**
 
+[![Media Happi AI Logo](https://mediahappi.ai/wp-content/uploads/2023/05/online-logo-creator-for-electronics-companies-with-circuit-board-clipart-2176b-16-copy-3.png)](https://mediahappi.ai)
+
 - **Usage**: The Media Happi logo should always be visible in its entirety without any modifications.
 - **Spacing**: Ensure there's sufficient white space around the logo. It should never be cluttered or crowded.
 - **Variations**: Use the provided logo variations based on the background. If the background is dark, use the light version of the logo, and vice-versa.
