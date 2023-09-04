@@ -1,6 +1,7 @@
 [![Media Happi AI Logo](https://mediahappi.ai/wp-content/uploads/2023/05/online-logo-creator-for-electronics-companies-with-circuit-board-clipart-2176b-16-copy-3.png)](https://mediahappi.ai)
 
-# Media Happi AI 
+
+[![Visit MediaHappi.AI](https://img.shields.io/badge/Visit-MediaHappi.AI-blue?style=for-the-badge&logo=appveyor)](https://MediaHappi.AI)
 
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -16,9 +17,10 @@ Step into the future with Media Happi - <a href="https://mediahappi.ai"><b>Happi
 
 ---
 
-### 🚀 Dive Deeper with Media Happi
+### 🔗 Media Happi Dox
 
 For a holistic understanding of our brand and practices, we highly recommend checking our main [README.md](./README.md) in the `public` directory. Here are some more resources to explore:
+
 
 - <b>[Brand Guidelines](./Brand%20Guidlines.md)
 - [Coding Standards](./Coding%20Standards.md)
@@ -30,7 +32,7 @@ For a holistic understanding of our brand and practices, we highly recommend che
 
 Dear Innovators,
 
-At Media Happi AI, we're trailblazing a path to redefine content creation. With over two decades of experience in media powerhouses, we're poised to drive innovation. Our mission? To transform, innovate, and lead with ethics at the helm. Welcome to a revolution. Say hello to Media Happi AI – the adrenaline shot straight into the heart of content creation that will leave you gasping for more! Media Happi AI, where your wildest ideas meet a maverick's determination to rewrite the rules. <b>Transformation Unleashed:</b> Prepare for a cataclysmic upheaval in the realm of content creation. Our mission isn't just to innovate; it's to obliterate conventions. Ethics aren't just a buzzword; they're the cornerstone of AI’s journey, respecting your privacy, diversity, and authenticity.
+At Media Happi AI, we're trailblazing a path to redefine content creation. With over two decades of experience in media powerhouses, we're poised to drive innovation. Our mission? To transform, innovate, and lead with ethics at the helm. Welcome to a revolution. Say hello to Media Happi AI – the adrenaline shot straight into the heart of content creation that will leave you gasping for more! Media Happi AI, where your wildest ideas meet a maverick's determination to rewrite the rules. 
 
 ---
 
@@ -86,13 +88,17 @@ Deployment is an art, and AWS is our canvas. If you're well-versed with AWS, und
   <a href="https://www.paypal.com/paypalme/mediahappi"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
 </p>
 
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
-![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![GitHub followers](https://img.shields.io/github/followers/MEDIA-HAPPI-AI?style=social)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MEDIA-HAPPI-AI/public)`
+![Node.js Version](https://img.shields.io/badge/Node.js-14.16.0-brightgreen)
+![Express.js](https://img.shields.io/badge/Express.js-4.17.1-brightgreen)
+![MongoDB](https://img.shields.io/badge/MongoDB-4.4-brightgreen)
+![React Version](https://img.shields.io/badge/React-17.0.2-blue)
+![AWS](https://img.shields.io/badge/AWS-EC2-orange)
+![Docker](https://img.shields.io/badge/Docker-20.10.5-blue)
+![Python](https://img.shields.io/badge/Python-3.8-yellow)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.4-orange)
+![Chargbee](https://img.shields.io/badge/Chargebee-integrated-orange)
 ![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
 
 At Media Happi AI, we merge innovation with dedication, crafting AI-driven applications and web platforms to enhance user experiences. Through our advanced AI, <a href="https://mediahappi.ai"><b>Happi AI Studio</b></a>, we redefine possibilities in the realm of content creation.
@@ -104,5 +110,7 @@ At Media Happi AI, we merge innovation with dedication, crafting AI-driven appli
 ---
 
 ©️ 2023 MEDIA HAPPI LLC | CHICAGO, IL USA - We’re crafting the Future with <a href="https://www.QuantumDLM.com"><b>Quantum DLM</b></a>
+
+
 
 ---
