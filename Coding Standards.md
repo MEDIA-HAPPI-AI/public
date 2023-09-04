@@ -92,7 +92,7 @@ Maintaining coding standards is a collective responsibility. While this document
 
 ---
 
-## :people_holding_hands: Join Media Happi
+[![Media Happi AI Logo](https://mediahappi.ai/wp-content/uploads/2023/05/online-logo-creator-for-electronics-companies-with-circuit-board-clipart-2176b-16-copy-3.png)](https://mediahappi.ai)
 
 We're always on the lookout for passionate individuals to join our team. Do you love Laravel? Do you thrive on challenges and love creating seamless applications? If your code sings, we want you!
 
