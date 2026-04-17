@@ -1,4 +1,4 @@
-#### [![Media Happi AI Logo](https://mediahappi.com/wp-content/uploads/2025/02/MEDIA-HAPPI-LOGO-0011-copy.png.webp)](https://mediahappi.com)
+#### #### [![Media Happi AI Logo](https://mediahappi.com/wp-content/uploads/2025/02/MEDIA-HAPPI-LOGO-0011-copy.png.webp)](https://mediahappi.com)
 
 # Media Happi AI Tech Stack
 
@@ -7,6 +7,21 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+## 📄 Download Full Style Guide
+
+<a href="https://drive.google.com/uc?export=download&id=1MGJHvd3nxZocIWH6iW2ndsTWIqvaVZlH">
+<b>⬇ DOWNLOAD FULL SYSTEM PDF →</b>
+</a>
+
+Includes:
+- Full design system
+- CSS + layout rules
+- AI generation system
+- Copywriting + voice system
+- Developer enforcement standards
 
 ---
 
@@ -25,9 +40,11 @@ We are building the future of AI infrastructure with <a href="https://mediahappi
 
 # Media Happi Brand Guidelines
 
-These guidelines define the visual and communication standards for Media Happi products, websites, and repositories.
+These guidelines define the visual, technical, and communication standards for Media Happi products, websites, and repositories.
 
 Consistency across platforms strengthens trust, recognition, and perceived engineering quality.
+
+This is not just branding — this is a **full system**.
 
 ---
 
@@ -45,6 +62,13 @@ Consistency across platforms strengthens trust, recognition, and perceived engin
   
 https://mediahappi.com
 
+### Advanced Rules
+
+- No shadows, glow, or filters
+- No overlaying text
+- No low-contrast placement
+- Do not crop or partially display logo
+
 ---
 
 # 2. Color System
@@ -59,6 +83,15 @@ https://mediahappi.com
 | Text | Black | `#000000` |
 | Light Text | White | `#FFFFFF` |
 
+### Extended System
+
+| Purpose | HEX |
+|--------|-----|
+| Navy Background | `#0A102F` |
+| Card Background | `#1B1C1D` |
+| Accent Purple | `#A259FF` |
+| CTA Highlight | `#C1FF00` |
+
 ### Usage
 
 Primary blue should be used for:
@@ -69,6 +102,13 @@ Primary blue should be used for:
 - call-to-action elements
 
 Dark blue is used for hover states and active UI states.
+
+### System Rules
+
+- Always prioritize dark UI
+- Maintain high contrast
+- Do not introduce new colors
+- Keep color usage consistent across repos
 
 ---
 
@@ -95,6 +135,13 @@ Hover color for links:
 
 `#1F3BBF`
 
+### System Rules
+
+- No decorative fonts
+- Maintain strict hierarchy
+- Avoid inconsistent sizing
+- Keep readability priority over style
+
 ---
 
 # 4. Buttons
@@ -112,6 +159,18 @@ Buttons should feel clean, minimal, and modern.
 | Hover Background | `#1F3BBF` |
 | Hover Text | White |
 
+### Button System
+
+- Primary → Blue
+- Secondary → Outline
+- High-emphasis → Green (`#C1FF00`)
+
+### Rules
+
+- Always action-based
+- Always high contrast
+- Do not create custom styles per page
+
 ---
 
 # 5. Navigation
@@ -125,6 +184,12 @@ Navigation should feel lightweight and modern.
 | Color | `#3251FC` |
 | Hover | `#1F3BBF` |
 | Active Page | `#1F3BBF` |
+
+### Rules
+
+- Keep navigation minimal
+- Avoid clutter
+- Maintain consistency across pages
 
 ---
 
@@ -155,6 +220,12 @@ Avoid:
 - cartoon style graphics
 - overly complex illustrations
 
+### System Rules
+
+- Visuals should support clarity, not decoration
+- Avoid unnecessary imagery
+- Maintain consistency across all platforms
+
 ---
 
 # 7. Voice & Tone
@@ -175,11 +246,114 @@ Engineering-focused but accessible.
 - future-focused
 - practical
 
-Avoid:
+### Expanded Writing Rules
 
-- hype language
-- exaggerated claims
-- buzzword stacking
+- Use short, direct sentences
+- Avoid filler words
+- Avoid corporate buzzwords
+- Focus on clarity and action
+- Every sentence should provide value
+
+### Examples
+
+Bad:
+- Leverage AI ecosystems  
+- Unlock your potential  
+
+Good:
+- Write your script  
+- Generate your content  
+- Publish instantly  
+
+---
+
+# 8. CTA System
+
+Approved CTAs:
+
+- Start Free →
+- Get Access →
+- Generate Now →
+- Build Now →
+
+### Rules
+
+- Always action-based
+- Never vague
+- No “Learn More” alone
+- CTA must clearly define next step
+
+---
+
+# 9. Layout & Structure
+
+### Core Structure
+
+- Hero
+- Alternating sections
+- Feature blocks
+- Final CTA
+
+### Spacing System
+
+- Consistent vertical spacing
+- Clean section separation
+- Avoid cramped layouts
+
+---
+
+# 10. Component System
+
+### Cards
+
+- Dark background
+- Subtle borders
+- Consistent spacing
+
+### Lists
+
+- Clean bullet structure
+- Simple icons (✓)
+
+### Rules
+
+- Reuse components
+- Do not create new patterns without approval
+- Maintain consistency across pages
+
+---
+
+# 11. Development Rules
+
+- Keep UI consistent across repos
+- Avoid one-off styling
+- Follow system strictly
+- Reuse components wherever possible
+
+---
+
+# 12. AI Generation Rules
+
+- Output must follow this system
+- Must use approved voice and tone
+- Must follow layout + structure
+- No random styles or formatting
+
+---
+
+# 13. Accessibility & Performance
+
+### Accessibility
+
+- High contrast text
+- Clear hierarchy
+- Readable font sizes
+
+### Performance
+
+- Optimize assets
+- Keep UI lightweight
+- Avoid unnecessary dependencies
 
 ---
 
@@ -244,6 +418,14 @@ https://mediahappi.com/jobs/
 # Future Development
 
 - <a href="https://mediahappi.com/jeanne-ai"><b>Jeanne AI</b></a>
+
+---
+
+## 📄 Download Full Style Guide
+
+<a href="https://drive.google.com/uc?export=download&id=1MGJHvd3nxZocIWH6iW2ndsTWIqvaVZlH">
+<b>⬇ DOWNLOAD FULL SYSTEM PDF →</b>
+</a>
 
 ---
 
