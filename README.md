@@ -1,4 +1,4 @@
-[![Media Happi AI Logo](https://mediahappi.com/wp-content/uploads/2025/02/MEDIA-HAPPI-LOGO-0011-copy.png.webp)](https://mediahappi.com)
+#### [![Media Happi AI Logo](https://mediahappi.com/wp-content/uploads/2025/02/MEDIA-HAPPI-LOGO-0011-copy.png.webp)](https://mediahappi.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MEDIA-HAPPI-AI)
 
@@ -25,6 +25,8 @@ For a full understanding of our brand and practices,
 - [Brand Guidelines ->](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Brand%20Guidlines.md)
 - [Coding Standards ->](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Coding%20Standards.md)
 - [Ethical AI ->](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Ethical%20AI.md)
+- [Voice Guidelines ->](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Voice%20Guidelines.md)
+  - <a href="https://drive.google.com/uc?export=download&id=1MGJHvd3nxZocIWH6iW2ndsTWIqvaVZlH"><b>⬇ Download Full Voice PDF</b></a>
 - [Official Website ->](https://mediahappi.com)
 
 ---
@@ -100,7 +102,7 @@ New technical and creative roles are posted regularly.
 
 ## :hammer_and_wrench: Current Projects
 
-- Media Happi AI Studio 2.0 — next generation AI content creation, AI influencer marketing intelligence, social media automation tools, AI email marketing generation,  advanced text-to-speech, AI podcast creation tools
+- Media Happi AI Studio 2.0 — next generation AI content creation, AI influencer marketing intelligence, social media automation tools, AI email marketing generation, advanced text-to-speech, AI podcast creation tools
 - Jeanne AI — proprietary AI compute architecture
 
 ---
@@ -143,6 +145,4 @@ Through <a href="https://mediahappi.com"><b>Media Happi AI</b></a>, we are redef
 © MEDIA HAPPI LLC  
 Chicago • San Francisco  
 
-Building the future of AI with <a href="https://mediahappi.com/jeanne-ai"><b>Jeanne AI</b></a>
-
----
+Building the future of AI with <a href="https://JeannieAI.tech"><b>JeannieAI.tech</b></a>
