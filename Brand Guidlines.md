@@ -1,4 +1,4 @@
-#### #### [![Media Happi AI Logo](https://mediahappi.com/wp-content/uploads/2025/02/MEDIA-HAPPI-LOGO-0011-copy.png.webp)](https://mediahappi.com)
+[![Media Happi AI Logo](https://mediahappi.com/wp-content/uploads/2025/02/MEDIA-HAPPI-LOGO-0011-copy.png.webp)](https://mediahappi.com)
 
 # Media Happi AI Tech Stack
 
@@ -44,7 +44,7 @@ These guidelines define the visual, technical, and communication standards for M
 
 Consistency across platforms strengthens trust, recognition, and perceived engineering quality.
 
-This is not just branding — this is a **full system**.
+This is a **real system used in production**, not just a visual reference.
 
 ---
 
@@ -64,33 +64,35 @@ https://mediahappi.com
 
 ### Advanced Rules
 
-- No shadows, glow, or filters
-- No overlaying text
-- No low-contrast placement
-- Do not crop or partially display logo
+- No shadows or effects
+- No overlays or text on top
+- Do not crop the logo
+- Always ensure strong contrast with background
 
 ---
 
-# 2. Color System
+# 2. Color System (CORRECTED FOR REAL USAGE)
 
-### Primary Colors
+### Core Colors
 
 | Purpose | Color | HEX |
 |--------|------|-----|
-| Background | Black | `#000000` |
+| Primary Background | Black | `#000000` |
+| Secondary Background | Navy | `#0A102F` |
+| Card Background | Dark Gray | `#1B1C1D` |
 | Primary Accent | Blue | `#3251FC` |
-| Secondary Accent | Dark Blue | `#1F3BBF` |
-| Text | Black | `#000000` |
-| Light Text | White | `#FFFFFF` |
+| Hover / Active | Dark Blue | `#1F3BBF` |
+| Accent | Purple | `#A259FF` |
+| High Emphasis CTA | Green | `#C1FF00` |
+| Primary Text | White | `#FFFFFF` |
+| Secondary Text | Light Gray | `#CFCFCF` |
 
-### Extended System
+### Critical Rule (DO NOT BREAK)
 
-| Purpose | HEX |
-|--------|-----|
-| Navy Background | `#0A102F` |
-| Card Background | `#1B1C1D` |
-| Accent Purple | `#A259FF` |
-| CTA Highlight | `#C1FF00` |
+- **Dark background → Light text ONLY**
+- Never use black text on dark backgrounds
+- White (`#FFFFFF`) is the default text color
+- Light gray is used for secondary text only
 
 ### Usage
 
@@ -105,10 +107,10 @@ Dark blue is used for hover states and active UI states.
 
 ### System Rules
 
-- Always prioritize dark UI
-- Maintain high contrast
-- Do not introduce new colors
-- Keep color usage consistent across repos
+- Always design for dark UI
+- Maintain high contrast at all times
+- Do not introduce random colors
+- Accessibility and readability override design preference
 
 ---
 
@@ -128,19 +130,20 @@ Typography should feel modern, technical, and highly readable.
 
 | Element | Font | Size | Color |
 |--------|------|------|------|
-| Paragraph | Poppins | 16px | `#000000` |
+| Paragraph | Poppins | 16px | `#FFFFFF` |
+| Secondary Text | Poppins | 16px | `#CFCFCF` |
 | Links | Poppins | 16px | `#3251FC` |
 
 Hover color for links:
 
 `#1F3BBF`
 
-### System Rules
+### Rules
 
 - No decorative fonts
 - Maintain strict hierarchy
-- Avoid inconsistent sizing
-- Keep readability priority over style
+- Optimize for readability first
+- Always consider contrast against dark backgrounds
 
 ---
 
@@ -159,7 +162,7 @@ Buttons should feel clean, minimal, and modern.
 | Hover Background | `#1F3BBF` |
 | Hover Text | White |
 
-### Button System
+### Button Types
 
 - Primary → Blue
 - Secondary → Outline
@@ -167,9 +170,10 @@ Buttons should feel clean, minimal, and modern.
 
 ### Rules
 
-- Always action-based
-- Always high contrast
-- Do not create custom styles per page
+- Always action-driven
+- Must be clearly visible on dark backgrounds
+- No low-contrast buttons
+- No inconsistent styles
 
 ---
 
@@ -189,7 +193,8 @@ Navigation should feel lightweight and modern.
 
 - Keep navigation minimal
 - Avoid clutter
-- Maintain consistency across pages
+- Ensure strong contrast
+- Maintain consistency across all pages
 
 ---
 
@@ -220,11 +225,11 @@ Avoid:
 - cartoon style graphics
 - overly complex illustrations
 
-### System Rules
+### Rules
 
 - Visuals should support clarity, not decoration
 - Avoid unnecessary imagery
-- Maintain consistency across all platforms
+- Maintain consistency across platforms
 
 ---
 
@@ -250,9 +255,9 @@ Engineering-focused but accessible.
 
 - Use short, direct sentences
 - Avoid filler words
-- Avoid corporate buzzwords
-- Focus on clarity and action
-- Every sentence should provide value
+- Avoid buzzwords
+- Be specific, not abstract
+- Focus on action and clarity
 
 ### Examples
 
@@ -280,8 +285,8 @@ Approved CTAs:
 
 - Always action-based
 - Never vague
-- No “Learn More” alone
-- CTA must clearly define next step
+- Must clearly define next step
+- Avoid “Learn More” unless paired with action
 
 ---
 
@@ -290,15 +295,16 @@ Approved CTAs:
 ### Core Structure
 
 - Hero
-- Alternating sections
+- Alternating dark sections
 - Feature blocks
 - Final CTA
 
-### Spacing System
+### Rules
 
-- Consistent vertical spacing
-- Clean section separation
-- Avoid cramped layouts
+- Maintain vertical rhythm
+- Avoid cluttered layouts
+- Keep spacing consistent
+- Prioritize readability
 
 ---
 
@@ -308,18 +314,18 @@ Approved CTAs:
 
 - Dark background
 - Subtle borders
-- Consistent spacing
+- Consistent padding
 
 ### Lists
 
-- Clean bullet structure
+- Clean structure
 - Simple icons (✓)
 
 ### Rules
 
 - Reuse components
-- Do not create new patterns without approval
-- Maintain consistency across pages
+- Do not invent new patterns unnecessarily
+- Maintain system consistency
 
 ---
 
@@ -328,7 +334,7 @@ Approved CTAs:
 - Keep UI consistent across repos
 - Avoid one-off styling
 - Follow system strictly
-- Reuse components wherever possible
+- Build reusable components
 
 ---
 
@@ -464,6 +470,6 @@ https://mediahappi.com/jobs/
 © MEDIA HAPPI LLC  
 Chicago • San Francisco  
 
-Building the future of AI with <a href="https://mediahappi.com/jeanne-ai"><b>Jeanne AI</b></a>
+Building the future of AI with <a href="https://jeanneai.tech"><b>Jeanne AI</b></a>
 
 ---
