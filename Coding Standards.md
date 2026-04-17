@@ -16,6 +16,21 @@ Media Happi builds advanced AI software, intelligent automation tools, and scala
 
 Through <a href="https://mediahappi.com"><b>Media Happi AI</b></a>, we are redefining what modern AI platforms can achieve.
 
+At the core of our infrastructure is <a href="https://JeannieAI.tech"><b>Jeanne AI</b></a>, a next-generation AI orchestration system designed to coordinate models, enforce structured outputs, and scale intelligent workflows across platforms.
+
+---
+
+## 📚 Documentation
+
+For a complete understanding of how Media Happi systems are designed and operated:
+
+- <a href="https://github.com/MEDIA-HAPPI-AI/public/blob/main/README.md"><b>Main README</b></a>  
+- <a href="https://github.com/MEDIA-HAPPI-AI/public/blob/main/Brand%20Guidlines.md"><b>Brand Guidelines</b></a>  
+- <a href="https://github.com/MEDIA-HAPPI-AI/public/blob/main/Voice%20Guidelines.md"><b>Voice Guidelines</b></a>  
+- <a href="https://github.com/MEDIA-HAPPI-AI/public/blob/main/Ethical%20AI.md"><b>Ethical AI</b></a>  
+
+These documents define how we design systems, communicate outputs, and maintain responsible AI behavior.
+
 ---
 
 # Media Happi Coding Standards
@@ -33,6 +48,8 @@ These standards apply to:
 
 Following these standards ensures clean architecture, easier onboarding, and faster development cycles.
 
+In addition, these standards ensure that all systems interacting with Jeanne AI remain predictable, modular, and scalable.
+
 ---
 
 # 1. Naming Conventions
@@ -45,6 +62,8 @@ Example:
 userProfile
 emailAddress
 modelResponse
+aiExecutionState
+promptVersion
 ```
 
 ### Classes
@@ -55,6 +74,8 @@ Example:
 UserController
 AiService
 PaymentProcessor
+PromptEngine
+OrchestrationManager
 ```
 
 ### Functions / Methods
@@ -65,6 +86,8 @@ Example:
 getUserData()
 generateResponse()
 processPayment()
+executePromptLayer()
+validateSystemState()
 ```
 
 ### Constants
@@ -75,7 +98,11 @@ Example:
 MAX_RETRIES
 API_ENDPOINT
 DEFAULT_TIMEOUT
+PROMPT_VERSION
+MODEL_LIMIT
 ```
+
+Consistent naming improves readability across large-scale systems and AI workflows.
 
 ---
 
@@ -95,6 +122,8 @@ Incorrect:
 ```
 let total=price+tax;
 ```
+
+Consistent formatting reduces cognitive load and improves team efficiency.
 
 ---
 
@@ -119,6 +148,7 @@ Always document:
 
 • complex logic  
 • architectural decisions  
+• AI orchestration behavior  
 • temporary workarounds  
 • performance optimizations  
 
@@ -149,6 +179,7 @@ Preferred:
 calculateInvoiceTotal()
 generateAiPrompt()
 validateUserInput()
+formatStructuredOutput()
 ```
 
 Avoid:
@@ -156,6 +187,8 @@ Avoid:
 processEverything()
 handleAllLogic()
 ```
+
+Well-structured functions are critical when integrating AI systems like Jeanne AI, where predictability and modular execution are required.
 
 ---
 
@@ -193,6 +226,8 @@ try {
     return errorResponse();
 }
 ```
+
+In AI systems, errors must fail safely and never produce misleading outputs.
 
 ---
 
@@ -239,6 +274,8 @@ Guidelines:
 • descriptive file names  
 • consistent folder structure  
 
+Proper organization becomes critical when scaling AI orchestration systems.
+
 ---
 
 # 9. Code Reuse
@@ -254,7 +291,7 @@ abstract it into:
 • traits  
 • shared components  
 
-Reusable code improves maintainability and reduces bugs.
+Reusable code improves maintainability and reduces bugs across systems.
 
 ---
 
@@ -269,11 +306,15 @@ Rules:
 • audit dependencies regularly  
 • document new dependencies  
 
+Dependencies should support the system — not define it.
+
 ---
 
 # 11. UI Development Standards
 
 Frontend code should follow Media Happi Brand Guidelines.
+
+<a href="https://github.com/MEDIA-HAPPI-AI/public/blob/main/Brand%20Guidlines.md"><b>View Brand Guidelines</b></a>
 
 Typography:
 
@@ -315,12 +356,34 @@ For Jeanne AI related systems:
 • store reusable prompt templates  
 • version important prompt changes  
 • log AI outputs when debugging  
+• enforce structured outputs  
 
 Maintain separation between:
 
 AI logic  
 application logic  
 UI logic  
+
+Reference:
+
+<a href="https://github.com/MEDIA-HAPPI-AI/public/blob/main/Voice%20Guidelines.md"><b>Voice Guidelines</b></a>  
+<a href="https://github.com/MEDIA-HAPPI-AI/public/blob/main/Ethical%20AI.md"><b>Ethical AI</b></a>  
+
+---
+
+# 13. Jeanne AI System Standards
+
+Jeanne AI is a core infrastructure layer, not a simple AI tool.
+
+All systems interacting with Jeanne must follow:
+
+• structured outputs only  
+• no hidden or unpredictable logic  
+• modular orchestration  
+• observable system behavior  
+• predictable execution paths  
+
+Jeanne is designed to scale intelligence — without sacrificing control, clarity, or reliability.
 
 ---
 
@@ -342,27 +405,28 @@ We are seeking Laravel developers experienced in building structured SaaS platfo
 
 ## ☁️ AWS Engineers
 
-Experience preferred:
+We are seeking AWS specialists experienced with:
 
 • CI/CD pipelines  
 • infrastructure automation  
 • performance optimization  
-• secure deployment  
+• secure deployments  
 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 🧠 OpenCLaw AI Infrastructure Engineers
+## 🧠 OpenCLaw AI Infrastructure Specialists
 
 We are building proprietary AI compute systems powering Jeanne AI.
 
-Experience helpful:
+Ideal experience includes:
 
+• distributed compute systems  
 • GPU optimization  
-• distributed computing  
+• AI infrastructure engineering  
 • model orchestration  
-• performance tuning  
+• high-performance environments  
 
 ---
 
@@ -383,6 +447,6 @@ https://mediahappi.com/jobs/
 © MEDIA HAPPI LLC  
 Chicago • San Francisco  
 
-Building the future of AI with <a href="https://mediahappi.com/jeanne-ai"><b>Jeanne AI</b></a>
+Building the future of AI with <a href="https://JeannieAI.tech"><b>Jeanne AI</b></a>
 
 ---
