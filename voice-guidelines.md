@@ -47,13 +47,61 @@ Voice defines how users experience the system.
 <li>Every feature depends on clarity</li>
 </ul>
 
-<p>
-If the content fails, the product fails.
-</p>
+<p>If the content fails, the product fails.</p>
 
 <hr/>
 
-<h1>2. Voice Characteristics</h1>
+<h1>2. Content Strategy System (Laura Briggs Applied)</h1>
+
+<p>
+This system applies structured content strategy principles inspired by <b>Content is King by Laura Briggs</b>, adapted for UI, product, and AI outputs.
+</p>
+
+<h3>2.1 Every Piece of Content Has a Job</h3>
+<ul>
+<li>Each line must drive a user decision or action</li>
+<li>If it does not serve a function → remove it</li>
+<li>Content is never decorative</li>
+</ul>
+
+<h3>2.2 Write for User Intent, Not Features</h3>
+<ul>
+<li>Focus on what the user wants to do</li>
+<li>Avoid describing the system</li>
+<li>Guide the next step clearly</li>
+</ul>
+
+<h3>2.3 Clarity Over Brand Expression</h3>
+<ul>
+<li>Clarity always wins over tone or style</li>
+<li>If branding reduces clarity → remove it</li>
+<li>Users should understand instantly</li>
+</ul>
+
+<h3>2.4 Consistency Is a System Requirement</h3>
+<ul>
+<li>Same actions must use the same words</li>
+<li>Do not create variation for style</li>
+<li>Consistency reduces cognitive load</li>
+</ul>
+
+<h3>2.5 Content Comes Before UI</h3>
+<ul>
+<li>Define content before layout</li>
+<li>Design should support content</li>
+<li>If UI breaks clarity → change the UI</li>
+</ul>
+
+<h3>2.6 Content Must Scale</h3>
+<ul>
+<li>Write content that can be reused</li>
+<li>Avoid one-off phrasing</li>
+<li>Think in systems, not pages</li>
+</ul>
+
+<hr/>
+
+<h1>3. Voice Characteristics</h1>
 
 <ul>
 <li>Direct</li>
@@ -64,12 +112,12 @@ If the content fails, the product fails.
 </ul>
 
 <p>
-The voice should feel like a skilled operator giving precise instructions — not a marketing team trying to impress.
+The voice should feel like a skilled operator giving precise instructions.
 </p>
 
 <hr/>
 
-<h1>3. Non-Negotiable Rules</h1>
+<h1>4. Non-Negotiable Rules</h1>
 
 <ul>
 <li>No fluff</li>
@@ -79,13 +127,11 @@ The voice should feel like a skilled operator giving precise instructions — no
 <li>No corporate tone</li>
 </ul>
 
-<p>
-If a sentence does not create clarity or action, remove it.
-</p>
+<p>If a sentence does not create clarity or action, remove it.</p>
 
 <hr/>
 
-<h1>4. Sentence Design</h1>
+<h1>5. Sentence Design</h1>
 
 <p>Write like this:</p>
 
@@ -98,7 +144,7 @@ Publish instantly
 <p>Not like this:</p>
 
 <pre>
-Our platform enables users to leverage powerful tools.
+Our platform enables users to leverage advanced tools
 </pre>
 
 <ul>
@@ -109,30 +155,18 @@ Our platform enables users to leverage powerful tools.
 
 <hr/>
 
-<h1>5. Clarity Over Cleverness</h1>
+<h1>6. Clarity Over Cleverness</h1>
 
-<p>
-Do not try to sound impressive.  
-Try to be understood instantly.
-</p>
-
-<p>Bad:</p>
+<p>Do not try to sound impressive. Be understood instantly.</p>
 
 <pre>
-Unlock next-generation workflows
-</pre>
-
-<p>Good:</p>
-
-<pre>
-Create content faster
+Bad: Unlock next-generation workflows
+Good: Create content faster
 </pre>
 
 <hr/>
 
-<h1>6. Action-Driven Structure</h1>
-
-<p>All content must follow:</p>
+<h1>7. Action-Driven Structure</h1>
 
 <p><b>Action → Outcome</b></p>
 
@@ -140,14 +174,9 @@ Create content faster
 Generate your video in seconds
 </pre>
 
-<ul>
-<li>Start with what the user does</li>
-<li>Immediately show what happens</li>
-</ul>
-
 <hr/>
 
-<h1>7. Content Hierarchy</h1>
+<h1>8. Content Hierarchy</h1>
 
 <ol>
 <li>Headline</li>
@@ -161,13 +190,9 @@ Generate from a prompt
 Start Free →
 </pre>
 
-<p>
-This structure must be used across all interfaces.
-</p>
-
 <hr/>
 
-<h1>8. Tone Control</h1>
+<h1>9. Tone Control</h1>
 
 <ul>
 <li>Calm</li>
@@ -175,46 +200,23 @@ This structure must be used across all interfaces.
 <li>Precise</li>
 </ul>
 
-<p>Avoid:</p>
-
-<ul>
-<li>Hype</li>
-<li>Exaggeration</li>
-<li>Emotional manipulation</li>
-</ul>
+<p>Avoid hype, exaggeration, or emotional manipulation.</p>
 
 <hr/>
 
-<h1>9. Content Density</h1>
-
-<p>
-Reduce words. Increase clarity.
-</p>
+<h1>10. Content Density</h1>
 
 <ul>
+<li>Reduce words</li>
+<li>Increase clarity</li>
 <li>Remove anything unnecessary</li>
-<li>Compress meaning</li>
-<li>Prioritize readability</li>
 </ul>
 
-<p>
-Goal: maximum clarity with minimum words.
-</p>
+<p>Goal: maximum clarity with minimum words.</p>
 
 <hr/>
 
-<h1>10. Microcopy System</h1>
-
-<p>Applies to:</p>
-
-<ul>
-<li>Buttons</li>
-<li>Labels</li>
-<li>Errors</li>
-<li>Tooltips</li>
-</ul>
-
-<p>Must be:</p>
+<h1>11. Microcopy System</h1>
 
 <ul>
 <li>Immediate</li>
@@ -222,27 +224,14 @@ Goal: maximum clarity with minimum words.
 <li>Actionable</li>
 </ul>
 
-<hr/>
-
-<h1>11. Error Messaging</h1>
-
-<p>Bad:</p>
-
 <pre>
-Error occurred
-</pre>
-
-<p>Good:</p>
-
-<pre>
-Upload failed. Try again.
+Bad: Error occurred
+Good: Upload failed. Try again.
 </pre>
 
 <hr/>
 
 <h1>12. CTA System</h1>
-
-<p>Approved CTAs:</p>
 
 <ul>
 <li>Start Free →</li>
@@ -251,63 +240,50 @@ Upload failed. Try again.
 <li>Build Now →</li>
 </ul>
 
-<p>
-CTAs must be direct and action-oriented.
-</p>
-
 <hr/>
 
 <h1>13. AI Output Rules</h1>
 
-<p>All AI-generated content must:</p>
-
 <ul>
-<li>Be structured</li>
-<li>Be readable instantly</li>
-<li>Avoid filler</li>
-<li>Avoid artificial tone</li>
+<li>Guide user action</li>
+<li>Prioritize clarity over explanation</li>
+<li>Maintain consistency</li>
+<li>Follow content strategy rules</li>
 </ul>
-
-<p>
-AI must follow the same rules as human-written content.
-</p>
 
 <hr/>
 
 <h1>14. Developer Responsibility</h1>
 
 <ul>
-<li>Do not rewrite content incorrectly</li>
-<li>Do not introduce fluff</li>
-<li>Preserve clarity at all times</li>
+<li>Preserve meaning</li>
+<li>Maintain consistency</li>
+<li>Do not introduce unnecessary variation</li>
 </ul>
 
-<p>
-If content is unclear, fix the content — not just the UI.
-</p>
+<p>If content is unclear, fix the content — not just the UI.</p>
 
 <hr/>
 
 <h1>15. Content Review Checklist</h1>
 
 <ul>
+<li>Does this help the user act?</li>
 <li>Is it clear instantly?</li>
+<li>Is it consistent?</li>
 <li>Can it be shorter?</li>
-<li>Does it drive action?</li>
 </ul>
 
-<p>
-If any answer is no → rewrite.
-</p>
+<p>If any answer is no → rewrite.</p>
 
 <hr/>
 
 <h1>16. System Summary</h1>
 
 <ul>
-<li>Say less</li>
-<li>Say it clearly</li>
-<li>Make it actionable</li>
+<li>Content is the system</li>
+<li>Clarity over creativity</li>
+<li>Action over explanation</li>
 </ul>
 
 <hr/>
@@ -317,7 +293,18 @@ If any answer is no → rewrite.
 <pre>
 You are generating content for Media Happi AI.
 
-RULES:
+CORE PRINCIPLE:
+Content is the product. Every word must perform a function.
+
+CONTENT STRATEGY RULES (Laura Briggs Inspired):
+- Every piece of content must have a job
+- Write for user intent, not features
+- Clarity over brand voice
+- Maintain strict consistency
+- Content comes before UI decisions
+- Content must scale across the system
+
+VOICE RULES:
 - Short sentences
 - No fluff
 - No buzzwords
@@ -326,8 +313,9 @@ RULES:
 STYLE:
 - Action → outcome
 - Clear structure
+- Immediate readability
 
-FORBIDDEN WORDS:
+FORBIDDEN:
 leverage
 innovative
 cutting-edge
@@ -339,9 +327,10 @@ Get Access →
 Generate Now →
 
 VALIDATION:
-- Clear?
-- Short?
-- Actionable?
+- Does this help the user act?
+- Is it instantly clear?
+- Is it consistent?
+- Is every word necessary?
 
 If not → rewrite.
 </pre>
